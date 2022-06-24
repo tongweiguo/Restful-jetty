@@ -13,6 +13,11 @@ import org.glassfish.jersey.servlet.ServletContainer;
 
 import com.twg.Restful_jetty.RestApplication;
 
+/**
+ * restful服务启动类
+ * @author twg
+ *
+ */
 public class JettyServer {
 
 			
